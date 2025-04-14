@@ -1,5 +1,5 @@
 <center><img src="https://capsule-render.vercel.app/api?type=Waving&color=0:1b1c1a,100:7b7511&section=header" /></center>
-
+<!--
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ---
@@ -22,3 +22,4 @@
 ---
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+-->

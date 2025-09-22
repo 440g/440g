@@ -14,6 +14,8 @@
   * Bachelor's degree: CS&E in Ewha (senior now)
 * Interests
   * AI: Efficiency, Optimization, HAI, etc
+* Contacts
+  * skimm@ewhain.net
 
 <!--
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)

@@ -3,9 +3,18 @@
 * Natural Language
   * Kor: native
   * Eng: intermediate
+* Computer Language
+  * Python
+  * JAVA
+  * C/C++
+  * SQL
+  * Assembly language
+  * etc(if necessary, I can learn anythin)
+* Education
+  * Bachelor's degree: CS&E in Ewha (senior now)
+* Interests
+  * AI: Efficiency, Optimization, HAI, etc
 
-* Major
-  * CS (senior)
 <!--
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)

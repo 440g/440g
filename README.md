@@ -9,13 +9,14 @@
   * C/C++
   * SQL
   * Assembly language
-  * etc(if necessary, I can learn anythin)
+  * If necessary, I can learn anything
 * Education
-  * Bachelor's degree: CS&E in Ewha (senior now)
+  * Bachelor's degree: CSEN in Ewha
+  * Master's degree: CSEN in CU Boulder
 * Interests
-  * AI: Efficiency, Optimization, HAI, etc
+  * AI Efficiency, Optimization, HAI, etc
 * Contacts
-  * skimm [ at ] ewhain [ dot ] net
+  * miki4491 [ at ] colorado [ dot ] edu
   * meanwestk [ at ] gmail [ dot ] com
 
 
